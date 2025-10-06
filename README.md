@@ -2,7 +2,7 @@
 
 Este projeto é um front-end para o NLW Journey, permitindo criar e gerenciar viagens em grupo.
 
-![Preview da aplicação](screen_preview.png)
+![Preview da aplicação](public/screen_preview.png)
 
 ## Pré-requisitos
 
